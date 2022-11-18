@@ -18,8 +18,8 @@ body{
 font-family: 'Raleway';
 font-style: normal;
 font-weight: 400;
-font-size: 20px;
-line-height: 32px;
+font-size: 18px;
+line-height: 30px;
 letter-spacing: 0.5px;
 text-align: justify;
 color: #000000;
@@ -32,7 +32,6 @@ font-weight: 500;
 font-size: 36px;
 line-height: 16px;
 color: #1d0c2b;
-/* padding-top:3.5rem; */
 height: 38px;
 width: 293px;
 left: 320px;
@@ -56,8 +55,8 @@ order: 0;
 flex-grow: 0;
 height: 19px;
 width: 147px;
-left: 35px;
-top: 35.5px;
+left: 37px;
+top: 30.5px;
 
 
 }
@@ -71,7 +70,7 @@ top: 35.5px;
     padding: 1rem 0rem 2.2rem 0rem;
     margin-top: 31.5%;
     margin-bottom: 5%;
-    margin-left: 52.90%;
+    margin-left: 53.90%;
     
 }
 .code-with-loola-section{
@@ -446,8 +445,7 @@ background-color: initial;
             margin-top: 0px;
             height: 70px;
             width: 100%;
-            outline: 0.1px solid #1a0d2b;
-            box-shadow: #000000;
+            
         
     }
      .links {
@@ -630,6 +628,7 @@ background-color: initial;
                 padding: 15px;
                 font-family: "Raleway", sans-serif;
                 border: 1px solid #000000;
+                border-radius: 6px;
             }
 
 
